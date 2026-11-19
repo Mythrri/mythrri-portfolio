@@ -1,6 +1,6 @@
 # ✨ Mythrri | Personal Portfolio
 
-My Personal Portfolio Website - Showcasing my projects, skills and journey towards MSc Artificial Intelligence in UK.
+My Personal Portfolio Website - Showcasing my projects, skills and journey.
 
 ## 🚀 Live Demo
 https://mythrri.github.io/mythrri-portfolio/
@@ -33,10 +33,9 @@ I have built 5+ projects using HTML, CSS, JavaScript and AI concepts like NLP, C
 - 📧 Email: mythri1226@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/mythri-m-134b932aa/
 - 💻 GitHub: https://github.com/Mythrri
-- 📍 Karnataka, India
+- 📍  Karnataka, India
 
 ## 🎯 Future Goals
-- Pursue MSc Artificial Intelligence in UK
 - Learn Python for Data Science & Deep Learning
 - Build more AI tools for students
 
