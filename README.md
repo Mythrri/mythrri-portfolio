@@ -8,9 +8,7 @@ https://mythrri.github.io/mythrri-portfolio/
 ## 👩‍💻 About Me
 I am Mythrri, a student from Karnataka, India, passionate about Artificial Intelligence, Machine Learning and Web Development.
 
-I have built 5+ projects using HTML, CSS, JavaScript and AI concepts like NLP, Chatbots, and Sentiment Analysis.
-
-My goal is to study **MSc Artificial Intelligence in the UK** and build AI products that help students and society.
+I have built 5+ projects using HTML, CSS, JavaScript and AI concepts like NLP, Chatbots, and Sentiment Analysis. build AI products that help students and society.
 
 ## 🛠️ Skills
 - Python
